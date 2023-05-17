@@ -1,6 +1,6 @@
 ﻿namespace PRO3
 {
-    internal class Program
+    public class main
     {
         public static void Main(string[] args)
         {
